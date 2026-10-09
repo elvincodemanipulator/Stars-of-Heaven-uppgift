@@ -45,9 +45,14 @@ body {background-color: white;}
     font-family: 'Times New Roman', Times, serif;
 }
 
-img {
-    width: auto;
+.förstabild{
+    width: 340px;
     height: auto;
+}
+
+.låtbilder{
+    height: 50px;
+    width: 50px;
 }
 
 a {
